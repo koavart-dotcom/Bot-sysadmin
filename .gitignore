@@ -18,6 +18,9 @@ env/
 # Database
 data/
 
+# Claude Code
+.claude/
+
 # IDE
 .idea/
 .vscode/
